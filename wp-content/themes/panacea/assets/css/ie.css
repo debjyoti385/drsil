@@ -1,0 +1,13 @@
+.parallaxSection .parallax {
+    background-position: center top;
+}
+.galLink {
+	top:-300px;
+}
+
+.galLink .galTitle {
+	bottom:-300px;
+}
+.galleryItem:hover .galLink .galTitle {
+	bottom: 40px;
+}

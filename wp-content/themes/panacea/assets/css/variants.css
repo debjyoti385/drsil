@@ -1,0 +1,323 @@
+a:hover,
+a:focus{
+	color: orange;
+}
+.navbar .brand{
+	background: orange;
+}
+.navbar .brand:after{
+	background: orange;
+}
+.navbar .brand:before{
+	background: orange;
+	color: orange;
+}
+.header-area .soc-area .divider-triangle{
+	border-bottom: 4px solid orange;
+}
+.navbar .nav > li:hover > a{
+	color: orange;
+}
+.navbar .nav > .active:hover > a,
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus{
+	color: orange;
+}
+.navbar .nav > .active:hover > a:after,
+.navbar .nav > .active > a:after,
+.navbar .nav > .active > a:hover:after,
+.navbar .nav > .active > a:focus:after{
+	background: orange;
+}
+.navbar .nav > li.dropdown:hover > a:before{
+	background: orange;
+	color: orange;
+}
+.navbar .pull-right > li > .dropdown-menu .dropdown-menu li,
+.navbar .nav > li > .dropdown-menu.pull-right .dropdown-menu li{
+	background: orange;
+}
+.navbar .nav li.dropdown.open > .dropdown-toggle,
+.navbar .nav li.dropdown.active > .dropdown-toggle,
+.navbar .nav li.dropdown.open.active > .dropdown-toggle{
+	color: orange;
+}
+.dropdown-menu li{
+	background: orange;
+}
+.dropdown-submenu > a:before,
+.dropdown-submenu > a:after{
+	background: orange;
+	color: orange;
+}
+.heady{
+	color: orange;
+}
+.std i{
+	background-color: orange;
+}
+.big{
+	color: orange;
+}
+.dropcap:first-letter{
+	color: orange;
+}
+.highlight{
+	background: orange;
+}
+ul.signs li{
+	color: orange;
+}
+ul.signs li:before{
+	color: orange;
+}
+.nav-tabs{
+	border-bottom: 3px solid orange;
+	margin: 0;
+}
+.nav-tabs{
+	border-bottom: 2px solid orange;
+}
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus{
+	background-color: orange;
+}
+.btn{
+	background: orange;
+}
+.btn:hover{
+	background: orange;
+}
+.btn.active,
+.btn:active{
+	background: orange;
+}
+.btn-primary,
+.btn-primary:hover,
+.btn-primary.active,
+.btn-primary:active{
+	background: orange;
+}
+.searchIcon:before{
+	color: orange;
+}
+.contactForm input[type="submit"]{
+	background: orange;
+}
+.iconBox{
+	color: orange;
+}
+.iconBox.small a{
+	color: orange;
+}
+.iconBox i:before{
+	color: orange;
+}
+.flickr_badge .flickr_badge_image{
+	border: 1px solid orange;
+}
+.breadcrumbBox ul.breadcrumb li:before{
+	color: orange;
+}
+.widget-inner h4 + ul li a{
+	color: orange;
+}
+#footer .newsletterBox .dashedBox input[type="submit"]{
+	background: orange;
+}
+#wp-calendar tbody td a{
+	color: orange;
+}
+.smallSocials li a:before{
+	color: orange;
+}
+.pager > li > a:hover{
+	color: orange;
+}
+.pager > li.active > a{
+	color: orange;
+}
+.pager > li.prev a:hover:before,
+.pager > li.next a:hover:before{
+	color: orange;
+}
+.dashedQuote p{
+	color: orange;
+}
+.dashedQuote img.authorPhoto{
+	border: 4px solid orange;
+}
+.easySlider .rslides_nav:before{
+	color: orange;
+}
+ul.commentList .oneComment .comment-reply-link{
+	background: orange;
+	text-decoration: none;
+}
+ul.commentList .oneComment .metaIcon{
+	background: orange;
+}
+#footer{
+	background: orange;
+}
+.panel-group a.collapsed{
+	color: orange;
+}
+.panel-group a.collapsed i:before{
+	color: orange;
+}
+.styled-table th{
+	color: orange;
+}
+.progress-bar{
+	background: orange;
+}
+.logoSlider .flexslider .flex-direction-nav .flex-prev,
+.logoSlider .flexslider .flex-direction-nav .flex-next{
+	background: orange;
+}
+.hl-box .divider-triangle{
+	border-bottom: 4px solid orange;
+}
+.galOverlay{
+	background: orange;
+}
+.galleryItem.simple .galTitle .galOverlay{
+	background: orange;
+}
+.boxButton h4{
+	color: orange;
+}
+.boxButton .boxColor{
+	background: orange;
+}
+.price-box h3{
+	color: orange;
+}
+.price-box .divider-triangle{
+	border-bottom: 4px solid orange;
+}
+.price-box .divider-triangle:before{
+	background: orange;
+	color: orange;
+}
+.price-box .price{
+	color: orange;
+}
+.price-box-special.price-box .price{
+	background: orange;
+}
+.media-heading{
+	color: orange;
+}
+.pagination > li > a,
+.pagination > li > span{
+	color: orange;
+}
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus{
+	background-color: orange;
+}
+.brand-box .icon-list-ul:before{
+	color: orange;
+}
+.brand-box .icon-user:before{
+	color: orange;
+}
+.brand-box .icon-calendar:before{
+	color: orange;
+}
+.brand-box .icon-tags:before{
+	color: orange;
+}
+.brand-box .link{
+	color: orange;
+}
+
+.mail-box i{
+	color: orange;
+}
+.divider-triangle:before{
+	background: orange;
+	color: orange;
+}
+#toTop:hover{
+	background: orange;
+	text-decoration: none;
+}
+#galleryOptions li a{
+	background: orange;
+}
+.flexFull.flexslider .flex-control-paging li a:hover,
+.flexFull.flexslider .flex-control-paging li a.flex-active{
+	background: orange;
+}
+.flexFull.flexslider .flex-direction-nav .flex-prev:before,
+.flexFull.flexslider .flex-direction-nav .flex-next:before{
+	color: orange;
+}
+.flexFull.flexslider .flex-direction-nav .flex-prev:hover,
+.flexFull.flexslider .flex-direction-nav .flex-next:hover{
+	background: orange;
+}
+.btmBx h4{
+	color: orange;
+}
+.btmBx .divider-triangle{
+	border-bottom: 4px solid orange;
+}
+.bigIcon{
+	background: orange;
+}
+.serviceEl .revealBtn h5{
+	color: orange;
+}
+.serviceEl .revealContent{
+	background: orange;
+}
+.divider-triangle{
+	border-top: 4px solid orange;
+}
+.divider-triangle:before{
+	background: orange;
+	color: orange;
+}
+.listPresentation .rs-carousel .rs-carousel-action-prev:hover,
+.listPresentation .rs-carousel .rs-carousel-action-next:hover{
+	background: orange;
+}
+.listPresentation .date{
+	color: orange;
+}
+.listPresentation .date .divider-triangle{
+	border-right: 4px solid orange;
+}
+.listPresentation .date span{
+	border-right: 3px solid orange;
+}
+.listPresentation .date span:after{
+	background: orange;
+	color: orange;
+}
+@media (max-width: 990px){
+	.container > .navbar-collapse{
+		background: orange;
+	}
+
+	.navbar-static-top .navbar-inner,
+	.navbar-fixed-top .navbar-inner{
+		background: orange;
+	}
+
+	.nav-collapse .nav > li > a:hover,
+	.nav-collapse .nav > li > a:focus,
+	.nav-collapse .dropdown-menu a:hover,
+	.nav-collapse .dropdown-menu a:focus{
+		background: orange;
+	}
+
+}

@@ -1,0 +1,3651 @@
+# Copyright (C) 2013 ThemePlayers
+# This file is distributed under the ThemeForest license.
+msgid ""
+msgstr ""
+"Project-Id-Version: Panacea 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/theme\n"
+"POT-Creation-Date: 2013-12-19 22:40:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:6
+msgid "ooops..."
+msgstr ""
+
+#: 404.php:6
+msgid "something is not right"
+msgstr ""
+
+#: 404.php:13
+msgid "Error 404 - page not found"
+msgstr ""
+
+#: 404.php:14
+msgid "Don’t panic, that’s nothing serious"
+msgstr ""
+
+#: 404.php:16
+msgid ""
+"The page you were looking for probably never existed or it has been deleted. "
+"Please make sure you didn’t entered wrong address."
+msgstr ""
+
+#: 404.php:17
+msgid "You can contact us and we will try to solve this for you."
+msgstr ""
+
+#: 404.php:19
+msgid "Take me to home page"
+msgstr ""
+
+#: 404.php:28
+msgid "It’s time"
+msgstr ""
+
+#: 404.php:28 page-faq.php:24
+msgid "to evolve your website to a new level"
+msgstr ""
+
+#: archive.php:11
+msgid "Archive"
+msgstr ""
+
+#: archive.php:13 archive.php:16 archive.php:19
+msgid "Archive for"
+msgstr ""
+
+#: author.php:15
+msgid "Posts by"
+msgstr ""
+
+#: author.php:15 theme/options/_posts.php:7 theme/options/_posts.php:110
+msgid "Posts"
+msgstr ""
+
+#: category.php:10
+msgid "Posts in"
+msgstr ""
+
+#: ct/shortcodes/ctShortcodeParamsShortcode.class.php:103
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:159
+msgid "name"
+msgstr ""
+
+#: ct/shortcodes/ctShortcodeParamsShortcode.class.php:104
+msgid "preheader"
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:22 framework/demo/install.php:90
+#: theme/options/_custom.php:24 theme/options/_general.php:5
+#: theme/options/_general.php:53
+msgid "General"
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:167
+#: framework/createit/ctNHP_Options.class.php:352
+#: framework/options/options.php:617 framework/options/options.php:775
+msgid "Reset to Defaults"
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:179
+#: framework/options/options.php:623
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:181
+#: framework/options/options.php:625
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:185
+#: framework/options/options.php:630
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:187
+#: framework/options/options.php:632
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:217
+#: framework/options/options.php:651
+msgid "Import / Export"
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:236
+#: framework/createit/ctNHP_Options.class.php:324
+#: framework/options/options.php:668 framework/options/options.php:750
+msgid "Dev Mode Info"
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:257
+#: framework/options/options.php:687
+msgid "Import / Export Options"
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:259
+#: framework/options/options.php:689
+msgid "Import Options"
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:267
+#: framework/options/options.php:697
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:280
+#: framework/options/options.php:710
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:289
+#: framework/options/options.php:719
+msgid "Import"
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:289
+#: framework/options/options.php:719
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:292
+#: framework/options/options.php:722
+msgid "Export Options"
+msgstr ""
+
+#: framework/createit/ctNHP_Options.class.php:294
+#: framework/options/options.php:724
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site"
+msgstr ""
+
+#: framework/createit/ctThemeLoader.php:159
+#: framework/plugin/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/createit/ctThemeLoader.php:160
+#: framework/plugin/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/createit/ctThemeLoader.php:161
+#: framework/plugin/class-tgm-plugin-activation.php:157
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/createit/ctThemeLoader.php:162
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/createit/ctThemeLoader.php:163
+#: framework/plugin/class-tgm-plugin-activation.php:159
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/createit/ctThemeLoader.php:164
+#: framework/plugin/class-tgm-plugin-activation.php:160
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/createit/ctThemeLoader.php:165
+#: framework/plugin/class-tgm-plugin-activation.php:161
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/createit/ctThemeLoader.php:166
+#: framework/plugin/class-tgm-plugin-activation.php:162
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/createit/ctThemeLoader.php:167
+#: framework/plugin/class-tgm-plugin-activation.php:163
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/createit/ctThemeLoader.php:168
+#: framework/plugin/class-tgm-plugin-activation.php:164
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/createit/ctThemeLoader.php:169
+#: framework/plugin/class-tgm-plugin-activation.php:165
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/createit/ctThemeLoader.php:170
+#: framework/plugin/class-tgm-plugin-activation.php:166
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/createit/ctThemeLoader.php:171
+#: framework/plugin/class-tgm-plugin-activation.php:167
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/createit/ctThemeLoader.php:172
+#: framework/plugin/class-tgm-plugin-activation.php:168
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/createit/ctThemeLoader.php:173
+#: framework/plugin/class-tgm-plugin-activation.php:169
+#: framework/plugin/class-tgm-plugin-activation.php:489
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/createit/ctThemeLoader.php:174
+#: framework/plugin/class-tgm-plugin-activation.php:170
+#: framework/plugin/class-tgm-plugin-activation.php:1878
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/createit/ctThemeLoader.php:175
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: framework/createit/ctThemeLoader.php:199
+msgid ""
+"Your theme's directory name %s is too long! It will cause unpredictable "
+"errors in your Wordpres installation. Please change it's directory name to "
+"maximum 20 characters."
+msgstr ""
+
+#: framework/demo/install.php:66
+msgid "You can setup your Wordpress with just a single click!"
+msgstr ""
+
+#: framework/demo/install.php:71
+msgid ""
+"Warning! Import content only on new Wordpress installation. Otherwise your "
+"current pages and posts may be lost!"
+msgstr ""
+
+#: framework/demo/install.php:72 framework/demo/install.php:78
+msgid "import demo content"
+msgstr ""
+
+#: framework/demo/install.php:83
+msgid "Importing ..."
+msgstr ""
+
+#: framework/demo/install.php:89
+msgid "1-Click Demo Import"
+msgstr ""
+
+#: framework/demo/install.php:299 framework/demo/install.php:308
+#: framework/demo/install.php:359 framework/demo/install.php:364
+#: framework/demo/install.php:374
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: framework/demo/install.php:300
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: framework/demo/install.php:343
+msgid "All done."
+msgstr ""
+
+#: framework/demo/install.php:343
+msgid "Have fun!"
+msgstr ""
+
+#: framework/demo/install.php:344
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: framework/demo/install.php:365
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: framework/demo/install.php:382
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: framework/demo/install.php:407
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: framework/demo/install.php:434
+msgid "Assign Authors"
+msgstr ""
+
+#: framework/demo/install.php:435
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: framework/demo/install.php:437
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: framework/demo/install.php:447
+msgid "Import Attachments"
+msgstr ""
+
+#: framework/demo/install.php:450
+msgid "Download and import file attachments"
+msgstr ""
+
+#: framework/demo/install.php:454
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:122
+msgid "Submit"
+msgstr ""
+
+#: framework/demo/install.php:467
+msgid "Import author:"
+msgstr ""
+
+#: framework/demo/install.php:481
+msgid "or create new user with login name:"
+msgstr ""
+
+#: framework/demo/install.php:484
+msgid "as a new user:"
+msgstr ""
+
+#: framework/demo/install.php:492
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: framework/demo/install.php:494
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: framework/demo/install.php:496
+msgid "- Select -"
+msgstr ""
+
+#: framework/demo/install.php:553
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: framework/demo/install.php:612
+msgid "Failed to import category %s"
+msgstr ""
+
+#: framework/demo/install.php:658
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: framework/demo/install.php:712 framework/demo/install.php:861
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: framework/demo/install.php:739
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: framework/demo/install.php:763
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: framework/demo/install.php:824
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: framework/demo/install.php:1001
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: framework/demo/install.php:1008
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: framework/demo/install.php:1080
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: framework/demo/install.php:1096
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/demo/install.php:1142
+msgid "Remote server did not respond"
+msgstr ""
+
+#: framework/demo/install.php:1148
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: framework/demo/install.php:1155
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/demo/install.php:1160
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/demo/install.php:1166
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/demo/install.php:1274
+msgid "Import WordPress"
+msgstr ""
+
+#: framework/demo/install.php:1281
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: framework/demo/install.php:1296
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: framework/demo/install.php:1297
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: framework/demo/parsers.php:42 framework/demo/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: framework/demo/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: framework/demo/parsers.php:67 framework/demo/parsers.php:72
+#: framework/demo/parsers.php:248 framework/demo/parsers.php:426
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: framework/options/fields/color_gradient/field_color_gradient.php:40
+msgid "From:"
+msgstr ""
+
+#: framework/options/fields/color_gradient/field_color_gradient.php:43
+msgid " To:"
+msgstr ""
+
+#: framework/options/fields/multi_text/field_multi_text.php:39
+#: framework/options/fields/multi_text/field_multi_text.php:46
+#: framework/options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr ""
+
+#: framework/options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: framework/options/fields/select_show/field_select_show.php:11
+msgid "Show"
+msgstr ""
+
+#: framework/options/fields/select_show/field_select_show.php:11
+msgid "Hide"
+msgstr ""
+
+#: framework/options/fields/upload/field_upload.php:39
+msgid "Browse"
+msgstr ""
+
+#: framework/options/fields/upload/field_upload.php:40
+msgid "Remove Upload"
+msgstr ""
+
+#: framework/options/options.php:48 framework/options/options.php:50
+msgid "Options"
+msgstr ""
+
+#: framework/options/options.php:266
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: framework/options/options.php:629
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#: framework/options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: framework/options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: framework/options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: framework/options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: framework/options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: framework/options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: framework/options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: framework/options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:171
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:514
+#: framework/plugin/class-tgm-plugin-activation.php:2092
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:540
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:696
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1101
+msgid "External Link"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1105
+msgid "Private Repository"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1108
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1112
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1115
+msgid "Required"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1115
+msgid "Recommended"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1118
+msgid "Not Installed"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1120
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1295
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1311
+msgid "Plugin"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1312
+msgid "Source"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1313
+#: theme/shortcodes/video/ctVideoShortcode.class.php:195
+msgid "Type"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1314
+msgid "Status"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1332
+msgid "Install"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1333
+msgid "Activate"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1570
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1861
+msgid "Install package not available."
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1862
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1863
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1864
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1865
+msgid "Plugin install failed."
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1866
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1877
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1990
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1991
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1991
+#: framework/plugin/class-tgm-plugin-activation.php:1999
+msgid "Show Details"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1991
+#: framework/plugin/class-tgm-plugin-activation.php:1999
+msgid "Hide Details"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1992
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1993
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1996
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1997
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1998
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:1999
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:2000
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/plugin/class-tgm-plugin-activation.php:2001
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/roots/cleanup.php:388
+msgid "Continued"
+msgstr ""
+
+#: framework/roots/htaccess.php:26
+msgid "Please make sure your <a href=\"%s\">.htaccess</a> file is writable "
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeDecorator.class.php:269
+msgid "View %s and enter icon name ex. glass"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeDecorator.class.php:269
+#: theme/types/portfolio.php:50 theme/types/portfolio.php:60
+#: theme/types/portfolio.php:69
+msgid "available icons"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeHandler.class.php:238
+msgid "shortcode"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeHandler.class.php:302
+msgid "shortcodes"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:79
+msgid "Advanced filter options"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:213
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:217
+#: theme/shortcodes/portfolio/ctWorksShortcode.class.php:191
+#: theme/shortcodes/portfolio/ctWorksSliderShortcode.class.php:129
+#: theme/shortcodes/posts/ctRecentPostsShortcode.class.php:107
+msgid "limit"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:225
+msgid "Order"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:225
+#: framework/shortcodes/ctShortcodeQueryable.class.php:236
+msgid "Order in which data should be fetched"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:227
+#: theme/options/_portfolio.php:120 theme/options/_posts.php:40
+#: theme/options/_posts.php:127
+#: theme/shortcodes/typography/ctCoursesListItemItemShortcode.class.php:63
+#: theme/types/portfolio.php:54
+msgid "Date"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:228
+msgid "ID"
+msgstr ""
+
+#. #-#-#-#-#  ct_theme.po (Panacea 1.0)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: framework/shortcodes/ctShortcodeQueryable.class.php:229
+#: theme/shortcodes/testimonials/ctTestimonialShortcode.class.php:60
+#: theme/shortcodes/typography/ctBlockQuoteShortcode.class.php:62
+msgid "Author"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:230
+#: theme/options/_portfolio.php:96
+#: theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:70
+#: theme/shortcodes/boxes/ctIconBoxShortcode.class.php:62
+#: theme/shortcodes/chapter/ctChapterShortcode.class.php:63
+#: theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:174
+#: theme/shortcodes/gallery/ctGalleryGroupItemShortcode.class.php:110
+#: theme/shortcodes/gallery/ctGalleryGroupShortcode .class.php:319
+#: theme/shortcodes/sliders/ctFlexSliderItemShortcode.class.php:75
+#: theme/shortcodes/typography/ctCoursesListItemItemShortcode.class.php:62
+#: theme/shortcodes/typography/ctListShortcode.class.php:64
+msgid "Title"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:231
+msgid "Slug"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:232
+msgid "Modified"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:233
+msgid "Order by parent id"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:234
+msgid "Random order"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:235
+msgid "Order by Page order"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:236
+msgid "Order by"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:250
+msgid "Post id"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:250
+msgid "Page id"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:251
+msgid "Exclude post id"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:251
+msgid "Exclude page id"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:252
+msgid "Post slug"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:252
+msgid "Page slug"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:252
+msgid "Filter by slug"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:253
+msgid "Post parent id"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:253
+msgid "Page parent id"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:253
+msgid "Filter by Parent ID"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:266
+msgid "Authors Ids"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:266
+msgid ""
+"Comma separated values: 2,3,5. To exclude certain authors use '-' minus: -2 "
+"will exclude author 2"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:267
+msgid "Author name"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:280
+msgid "Categories Ids"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:280
+msgid ""
+"Comma separated values: 2,3,5. To exclude catgories use '-' minus: -2 will "
+"exclude category 2"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:281
+msgid "Category name"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:281
+msgid "Name of category to filter"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:294
+msgid "Tag name (slug)"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:294
+msgid ""
+"Comma separated values: tag1,tag2 To exclude tags use '-' minus: -mytag will "
+"exclude tag 'mytag'"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:307
+msgid "Keyword search"
+msgstr ""
+
+#: framework/shortcodes/ctShortcodeQueryable.class.php:307
+msgid "Show item with certain keyword"
+msgstr ""
+
+#: framework/shortcodes/socials/ctFacebookFeedShortcodeBase.class.php:104
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:149
+msgid "ago"
+msgstr ""
+
+#: framework/shortcodes/socials/ctFacebookFeedShortcodeBase.class.php:113
+msgid "page id"
+msgstr ""
+
+#: framework/shortcodes/socials/ctFacebookFeedShortcodeBase.class.php:113
+msgid "Page/user id"
+msgstr ""
+
+#: framework/shortcodes/socials/ctFacebookFeedShortcodeBase.class.php:114
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:215
+msgid "token"
+msgstr ""
+
+#: framework/shortcodes/socials/ctFacebookFeedShortcodeBase.class.php:114
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:215
+msgid "Access token"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:212
+msgid "username"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:212
+#: theme/options/_socials.php:14
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:111
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:111
+msgid "Twitter username"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:213
+msgid "customer key"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:213
+msgid "Customer key"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:214
+msgid "customer secret"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:214
+msgid "Customer secret"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:216
+msgid "token secret"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:216
+msgid "Access token secret"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:217
+msgid "Limit news"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:218
+msgid "follow us button"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:218
+msgid "Follow us"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:219
+msgid "new window?"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:220
+msgid "parse url"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:220
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:221
+msgid "plain text"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:220
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:221
+msgid "short link"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:220
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:221
+msgid "display link"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:220
+msgid ""
+"You can display links from the content as plain text, short html links or "
+"full html links"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:221
+msgid "parse media"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:221
+msgid "expanded link"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:221
+msgid ""
+"You can display media links from the content as plain text or 3 types of "
+"html links"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:222
+msgid "parse user id?"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:222
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:223
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:224
+#: theme/options/_style.php:13
+#: theme/shortcodes/accordion/ctAccordionItemShortcode.class.php:78
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:126
+#: theme/shortcodes/structure/ctTitleRowShortcode.class.php:85
+#: theme/shortcodes/tabs/ctTabShortcode.class.php:93
+msgid "yes"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:222
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:223
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:224
+#: theme/options/_style.php:13
+#: theme/shortcodes/accordion/ctAccordionItemShortcode.class.php:78
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:126
+#: theme/shortcodes/structure/ctTitleRowShortcode.class.php:85
+#: theme/shortcodes/tabs/ctTabShortcode.class.php:93
+msgid "no"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:222
+msgid "Display user @ids as plain text or links"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:223
+msgid "parse hashtag?"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:223
+msgid "Display #hashtags as plain text or links"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:224
+msgid "embed images?"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:224
+msgid "Embed images into posts content?"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:225
+msgid "size of embeded images?"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:225
+msgid "thumb"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:225
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:79
+msgid "small"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:225
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:79
+#: theme/shortcodes/contact/ctFlickrShortcode.class.php:60
+msgid "medium"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:225
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:79
+msgid "large"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:225
+msgid "Embedded image size"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:226
+msgid "tweet length limit"
+msgstr ""
+
+#: framework/shortcodes/socials/ctTwitterShortcodeBase.class.php:226
+msgid "Max length of the tweet"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:58
+msgctxt "post type general name"
+msgid "Faq items"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:59
+msgctxt "post type singular name"
+msgid "Faq Item"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:60
+msgctxt "faq"
+msgid "Add New"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:61
+msgid "Add New Faq Item"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:62
+msgid "Edit Faq Item"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:63
+msgid "New Faq Item"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:64
+msgid "View Faq Item"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:65
+msgid "Search Faq Items"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:66
+msgid "No faq item found"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:67
+msgid "No faq items found in Trash"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:69
+msgid "FAQ items"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:71
+msgid "faq"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:124
+msgctxt "taxonomy general name"
+msgid "Faq Categories"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:125
+msgctxt "taxonomy singular name"
+msgid "Faq Category"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:126
+#: framework/types/ctGalleryTypeBase.class.php:125
+#: framework/types/ctPortfolioTypeBase.class.php:136
+#: framework/types/ctProductTypeBase.class.php:136
+msgid "Search Categories"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:127
+#: framework/types/ctGalleryTypeBase.class.php:126
+#: framework/types/ctPortfolioTypeBase.class.php:137
+#: framework/types/ctProductTypeBase.class.php:137
+msgid "Popular Categories"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:128
+#: framework/types/ctGalleryTypeBase.class.php:127
+#: framework/types/ctPortfolioTypeBase.class.php:138
+#: framework/types/ctProductTypeBase.class.php:138
+msgid "All Categories"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:131
+msgid "Edit Faq Category"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:132
+msgid "Update Faq Category"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:133
+msgid "Add New Faq Category"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:134
+msgid "New Faq Category Name"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:135
+msgid "Separate Faq category with commas"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:136
+msgid "Add or remove faq category"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:137
+msgid "Choose from the most used faq category"
+msgstr ""
+
+#: framework/types/ctFaqTypeBase.class.php:138
+#: framework/types/ctGalleryTypeBase.class.php:137
+#: framework/types/ctPortfolioTypeBase.class.php:148
+#: framework/types/ctProductTypeBase.class.php:148
+#: theme/options/_portfolio.php:126 theme/options/_posts.php:70
+#: theme/options/_posts.php:151
+msgid "Categories"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:57
+msgctxt "post type general name"
+msgid "Gallery items"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:58
+msgctxt "post type singular name"
+msgid "Gallery Item"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:59
+msgctxt "gallery"
+msgid "Add New"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:60
+msgid "Add New Gallery Item"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:61
+msgid "Edit Gallery Item"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:62
+msgid "New Gallery Item"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:63
+msgid "View Gallery Item"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:64
+msgid "Search Gallery Items"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:65
+msgid "No gallery item found"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:66
+msgid "No gallery items found in Trash"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:68
+msgid "Gallery items"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:70
+msgid "gallery"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:123
+msgctxt "taxonomy general name"
+msgid "Gallery Categories"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:124
+msgctxt "taxonomy singular name"
+msgid "Gallery Category"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:130
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:131
+msgid "Update Gallery Category"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:132
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:133
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:134
+msgid "Separate Gallery category with commas"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:135
+msgid "Add or remove gallery category"
+msgstr ""
+
+#: framework/types/ctGalleryTypeBase.class.php:136
+msgid "Choose from the most used gallery category"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:40
+msgid "Portfolio settings"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:68
+msgctxt "post type general name"
+msgid "Portfolio items"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:69
+msgctxt "post type singular name"
+msgid "Portfolio Item"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:70
+msgctxt "portfolio"
+msgid "Add New"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:71
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:72
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:73
+msgid "New Portfolio Item"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:74
+msgid "View Portfolio Item"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:75
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:76
+msgid "No portfolio item found"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:77
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:79
+msgid "Portfolio items"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:81
+msgid "portfolio"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:134
+msgctxt "taxonomy general name"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:135
+msgctxt "taxonomy singular name"
+msgid "Portfolio Category"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:141
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:142
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:143
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:144
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:145
+msgid "Separate Portfolio category with commas"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:146
+msgid "Add or remove portfolio category"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:147
+msgid "Choose from the most used portfolio category"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:182
+#: theme/options/_portfolio.php:108 theme/types/portfolio.php:44
+msgid "Client"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:184
+#: theme/types/portfolio.php:46
+msgid "Information about client"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:189
+#: theme/types/portfolio.php:75
+msgid "Link to external site. Leave empty to hide button"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:191
+#: framework/types/ctPostTypeBase.class.php:85 theme/types/portfolio.php:82
+msgid "Show portfolio item as"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:193
+#: theme/types/portfolio.php:84
+msgid "Featured image"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:194
+#: framework/types/ctPostTypeBase.class.php:87 theme/types/portfolio.php:85
+msgid "Gallery"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:195
+#: theme/types/portfolio.php:86
+msgid "Video"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:197
+#: framework/types/ctPostTypeBase.class.php:89 theme/types/portfolio.php:88
+msgid "Revolution slider gallery"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:202
+#: theme/types/portfolio.php:93
+msgid "Video url"
+msgstr ""
+
+#: framework/types/ctPortfolioTypeBase.class.php:207
+#: framework/types/ctPostTypeBase.class.php:96 theme/types/portfolio.php:98
+msgid "Revolution slider"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:38
+msgid "Gallery format settings"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:39
+msgid "Link format settings"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:40
+msgid "Quote format settings"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:41
+msgid "Video format settings"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:42
+msgid "Audio format settings"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:93
+msgid ""
+"You can use the post images gallery. If the Revolution Slider module is "
+"installed, you can also use it to create your custom gallery."
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:104
+msgid "Choose your revolution slider gallery"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:119
+#: theme/shortcodes/video/ctVideoBackgroundShortcode.class.php:79
+#: theme/shortcodes/video/ctVideoShortcode.class.php:194
+msgid "Link"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:122
+msgid "Input your link. Example: http://www.google.com"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:136
+msgid "Quote"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:139
+msgid "Quote content"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:156
+msgid "M4V File URL"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:159
+msgid "The URL to the .m4v video file"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:161
+msgid "OGV File URL"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:164
+msgid "The URL to the .ogv video file"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:166
+msgid "Direct video URL"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:169
+msgid ""
+"Direct movie link to embed movie from popular services like Youtube, Vimeo, "
+"Dailymotion"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:171
+msgid "Embedded Code"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:174
+msgid "You can use any custom embed code."
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:192
+msgid "MP3 File URL"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:195
+msgid "The URL to the .mp3 audio file"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:197
+msgid "OGA File URL"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:200
+msgid "The URL to the .oga, .ogg audio file"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:202
+msgid "Poster URL"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:205
+msgid "The URL to the poster file"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:207
+msgid "Poster height"
+msgstr ""
+
+#: framework/types/ctPostTypeBase.class.php:210
+msgid "The height of the poster"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:40
+msgid "Product settings"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:68
+msgctxt "post type general name"
+msgid "Product items"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:69
+msgctxt "post type singular name"
+msgid "Product Item"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:70
+msgctxt "product"
+msgid "Add New"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:71
+msgid "Add New Product Item"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:72
+msgid "Edit Product Item"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:73
+msgid "New Product Item"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:74
+msgid "View Product Item"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:75
+msgid "Search Product Items"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:76
+msgid "No product item found"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:77
+msgid "No product items found in Trash"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:79
+msgid "Product items"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:81
+msgid "product"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:134
+msgctxt "taxonomy general name"
+msgid "Product Categories"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:135
+msgctxt "taxonomy singular name"
+msgid "Product Category"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:141
+msgid "Edit Product Category"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:142
+msgid "Update Product Category"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:143
+msgid "Add New Product Category"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:144
+msgid "New Product Category Name"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:145
+msgid "Separate Product category with commas"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:146
+msgid "Add or remove product category"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:147
+msgid "Choose from the most used product category"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:183
+msgid "Price"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:185
+msgid "Price for the product"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:187
+msgid "Location"
+msgstr ""
+
+#: framework/types/ctProductTypeBase.class.php:190
+msgid "Additional short info"
+msgstr ""
+
+#: page-faq.php:12 theme/options/_faq.php:6
+msgid "FAQ"
+msgstr ""
+
+#: page-faq.php:12
+msgid "frequently given answers"
+msgstr ""
+
+#: page-faq.php:24
+msgid "It is time  "
+msgstr ""
+
+#: search.php:10 theme/theme_functions.php:182
+msgid "Search results"
+msgstr ""
+
+#: tag.php:10
+msgid "Posts tagged"
+msgstr ""
+
+#: templates/comments.php:9
+msgid "at"
+msgstr ""
+
+#: templates/comments.php:24 theme/options/_pages.php:28
+#: theme/options/_portfolio.php:146 theme/options/_posts.php:170
+msgid "Comments"
+msgstr ""
+
+#: templates/comments.php:41
+msgid "your name..."
+msgstr ""
+
+#: templates/comments.php:47
+msgid "your email..."
+msgstr ""
+
+#: templates/comments.php:50
+msgid "your website address..."
+msgstr ""
+
+#: templates/comments.php:56
+msgid "your message goes here..."
+msgstr ""
+
+#: templates/content.php:63
+msgid "No search results found"
+msgstr ""
+
+#: templates/content-single-portfolio.php:26
+msgid "Next"
+msgstr ""
+
+#: templates/content-single-portfolio.php:41
+msgid "Previous"
+msgstr ""
+
+#: templates/entry-meta.php:1
+msgid "Posted on %s at %s."
+msgstr ""
+
+#: templates/entry-meta.php:2
+msgid "Written by"
+msgstr ""
+
+#: templates/post/content-standard.php:20 templates/post/content-video.php:33
+msgid "read more"
+msgstr ""
+
+#. #-#-#-#-#  ct_theme.po (Panacea 1.0)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: templates/searchform.php:10
+msgid "Search"
+msgstr ""
+
+#: theme/config.php:3
+msgid "Primary Navigation"
+msgstr ""
+
+#: theme/config.php:6
+msgid "Breadcrumbs Navigation"
+msgstr ""
+
+#: theme/config.php:11
+msgid "Primary Sidebar"
+msgstr ""
+
+#: theme/config.php:20
+msgid "Footer column 1"
+msgstr ""
+
+#: theme/config.php:29
+msgid "Footer column 2"
+msgstr ""
+
+#: theme/config.php:38
+msgid "Footer column 3"
+msgstr ""
+
+#: theme/config.php:47
+msgid "Footer column 4"
+msgstr ""
+
+#: theme/options/_code.php:5
+msgid "Google Analytics"
+msgstr ""
+
+#: theme/options/_code.php:6 theme/options/_code.php:20
+msgid "Code"
+msgstr ""
+
+#: theme/options/_code.php:10
+msgid "Account number"
+msgstr ""
+
+#: theme/options/_code.php:12
+msgid "Google Analytics account number (UA-XXXXXXXX-X)"
+msgstr ""
+
+#: theme/options/_code.php:19
+msgid "Custom styles"
+msgstr ""
+
+#: theme/options/_code.php:24
+msgid "Custom CSS"
+msgstr ""
+
+#: theme/options/_code.php:29
+msgid "Custom Javascript"
+msgstr ""
+
+#: theme/options/_code.php:30
+msgid "ex. custom tracking code. "
+msgstr ""
+
+#: theme/options/ctCustomizeManagerHandler.class.php:28
+msgid "Panacea - General settings"
+msgstr ""
+
+#: theme/options/ctCustomizeManagerHandler.class.php:33
+msgid "Motive color"
+msgstr ""
+
+#: theme/options/ctCustomizeManagerHandler.class.php:41
+msgid "Panacea - Header"
+msgstr ""
+
+#: theme/options/ctCustomizeManagerHandler.class.php:46
+#: theme/options/ctCustomizeManagerHandler.class.php:56
+msgid "Background color"
+msgstr ""
+
+#: theme/options/ctCustomizeManagerHandler.class.php:51
+msgid "Panacea - Footer"
+msgstr ""
+
+#: theme/options/ctCustomizeManagerHandler.class.php:62
+msgid "Subfooter background color"
+msgstr ""
+
+#: theme/options/_custom.php:12
+msgid "<strong>Documentation:</strong> "
+msgstr ""
+
+#: theme/options/_custom.php:13
+msgid "<strong>Support forum:</strong> "
+msgstr ""
+
+#: theme/options/_custom.php:14
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: theme/options/_custom.php:15
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: theme/options/_custom.php:22
+msgid "Theme Information"
+msgstr ""
+
+#: theme/options/_custom.php:36
+msgid "Browse our portfolio"
+msgstr ""
+
+#: theme/options/_custom.php:41
+msgid "Online documentation"
+msgstr ""
+
+#: theme/options/_faq.php:4 theme/options/_portfolio.php:4
+#: theme/options/_posts.php:5
+msgid "Index"
+msgstr ""
+
+#: theme/options/_faq.php:5
+msgid "Setup FAQ index page"
+msgstr ""
+
+#: theme/options/_faq.php:11 theme/options/_portfolio.php:11
+#: theme/options/_posts.php:12
+msgid "Index page"
+msgstr ""
+
+#: theme/options/_faq.php:12
+msgid "Which page should be a FAQ index?"
+msgstr ""
+
+#: theme/options/_faq.php:17 theme/options/_portfolio.php:17
+#: theme/options/_posts.php:18
+msgid "<h4>Collection options</h4>"
+msgstr ""
+
+#: theme/options/_faq.php:21
+msgid "Show FAQ index page title"
+msgstr ""
+
+#: theme/options/_faq.php:27 theme/options/_portfolio.php:27
+#: theme/options/_portfolio.php:90 theme/options/_posts.php:28
+#: theme/options/_posts.php:121 theme/types/page.php:42
+#: theme/types/portfolio.php:133 theme/types/post.php:42
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: theme/options/_general.php:6
+msgid "Main"
+msgstr ""
+
+#: theme/options/_general.php:7
+msgid "Main settingss"
+msgstr ""
+
+#: theme/options/_general.php:12
+msgid "Logo"
+msgstr ""
+
+#: theme/options/_general.php:17
+msgid "Logo html"
+msgstr ""
+
+#: theme/options/_general.php:18
+msgid ""
+"You can enter any HTML which will be displayed in place of logo. If image "
+"logo is uploaded, it will displayed instead."
+msgstr ""
+
+#: theme/options/_general.php:23
+msgid "Login logo"
+msgstr ""
+
+#: theme/options/_general.php:28
+msgid "Favicon"
+msgstr ""
+
+#: theme/options/_general.php:33
+msgid "Apple touch icon"
+msgstr ""
+
+#: theme/options/_general.php:37
+msgid "Footer text"
+msgstr ""
+
+#: theme/options/_general.php:38
+msgid "Available data: %year% (current year), %name% (site name)"
+msgstr ""
+
+#: theme/options/_general.php:43
+msgid "Search box?"
+msgstr ""
+
+#: theme/options/_general.php:54
+msgid "Automatic Update"
+msgstr ""
+
+#: theme/options/_general.php:55
+msgid ""
+"Automatic theme update will check every 12 hours for any new theme updates. "
+"A notification in Themes menu will appear (just like any other update info)."
+"<br/>In order for automatic updates to work, license key is required. <br/"
+"><strong>All your settings will be saved</strong>.<br/><br/><strong>WARNING</"
+"strong><br/>If you modified source code, it will be overwritten!"
+msgstr ""
+
+#: theme/options/_general.php:60
+msgid "Envato license"
+msgstr ""
+
+#: theme/options/_general.php:61
+msgid "Click here for instructions how to find license"
+msgstr ""
+
+#: theme/options/init.php:6
+msgid "Theme Options"
+msgstr ""
+
+#: theme/options/init.php:7
+msgid "Panacea Options"
+msgstr ""
+
+#: theme/options/init.php:9
+msgid "Welcome to theme's options pages."
+msgstr ""
+
+#: theme/options/_pages.php:5
+msgid "Home"
+msgstr ""
+
+#: theme/options/_pages.php:6
+msgid "Pages"
+msgstr ""
+
+#: theme/options/_pages.php:11
+msgid "Home page"
+msgstr ""
+
+#: theme/options/_pages.php:12
+msgid "Which page should be the home page?"
+msgstr ""
+
+#: theme/options/_pages.php:16
+msgid "Show titles on pages"
+msgstr ""
+
+#: theme/options/_pages.php:22
+msgid "Show breadcrumbs on pages"
+msgstr ""
+
+#: theme/options/_pages.php:34 theme/options/_portfolio.php:152
+#: theme/options/_posts.php:176
+msgid "Comment form"
+msgstr ""
+
+#: theme/options/_portfolio.php:5
+msgid "Setup Portfolio index page"
+msgstr ""
+
+#: theme/options/_portfolio.php:6 theme/options/_portfolio.php:79
+msgid "Portfolio"
+msgstr ""
+
+#: theme/options/_portfolio.php:12
+msgid "Which page should be a portfolio index?"
+msgstr ""
+
+#: theme/options/_portfolio.php:21
+msgid "Show portfolio index page title"
+msgstr ""
+
+#: theme/options/_portfolio.php:33
+msgid "Maximum items"
+msgstr ""
+
+#: theme/options/_portfolio.php:39
+#: theme/shortcodes/portfolio/ctWorksShortcode.class.php:194
+msgid "Number of columns"
+msgstr ""
+
+#: theme/options/_portfolio.php:46
+msgid "Show filters"
+msgstr ""
+
+#: theme/options/_portfolio.php:52
+msgid "Show titles"
+msgstr ""
+
+#: theme/options/_portfolio.php:58
+msgid "Show summary"
+msgstr ""
+
+#: theme/options/_portfolio.php:64
+msgid "Ordering works by order attribute"
+msgstr ""
+
+#: theme/options/_portfolio.php:70
+msgid "Portfolio index page slug"
+msgstr ""
+
+#: theme/options/_portfolio.php:72
+msgid "Slug is used to generate portfolio url like /SLUG/portfolio-item"
+msgstr ""
+
+#: theme/options/_portfolio.php:78 theme/options/_posts.php:109
+msgid "Single"
+msgstr ""
+
+#: theme/options/_portfolio.php:80 theme/options/_posts.php:111
+msgid "Setup single post settings"
+msgstr ""
+
+#: theme/options/_portfolio.php:84
+msgid "Portfolio page title"
+msgstr ""
+
+#: theme/options/_portfolio.php:86
+msgid "Our work"
+msgstr ""
+
+#. #-#-#-#-#  ct_theme.po (Panacea 1.0)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: theme/options/_portfolio.php:102
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:106
+#: theme/shortcodes/gallery/ctGalleryGroupItemShortcode.class.php:107
+#: theme/shortcodes/parallax/ctParallaxShortcode.class.php:156
+#: theme/shortcodes/sliders/ctFlexSliderItemShortcode.class.php:73
+msgid "Image"
+msgstr ""
+
+#: theme/options/_portfolio.php:114 theme/types/portfolio.php:63
+msgid "Venue"
+msgstr ""
+
+#: theme/options/_portfolio.php:132
+msgid "Summary"
+msgstr ""
+
+#: theme/options/_portfolio.php:138
+msgid "Other projects"
+msgstr ""
+
+#: theme/options/_posts.php:6
+msgid "Setup main Blog page ie. posts list"
+msgstr ""
+
+#: theme/options/_posts.php:13
+msgid "Which page should be as blog index?"
+msgstr ""
+
+#: theme/options/_posts.php:22
+msgid "Show posts index page title"
+msgstr ""
+
+#: theme/options/_posts.php:34
+msgid "Posts per page"
+msgstr ""
+
+#: theme/options/_posts.php:46 theme/options/_posts.php:133
+msgid "Image / video / gallery"
+msgstr ""
+
+#: theme/options/_posts.php:52 theme/options/_posts.php:139
+msgid "Title / quote author"
+msgstr ""
+
+#: theme/options/_posts.php:58 theme/options/_posts.php:145
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:199
+#: theme/shortcodes/sliders/ctFlexSliderItemShortcode.class.php:76
+msgid "Content"
+msgstr ""
+
+#: theme/options/_posts.php:64
+msgid "Full text"
+msgstr ""
+
+#: theme/options/_posts.php:76 theme/options/_posts.php:157
+msgid "Comments link"
+msgstr ""
+
+#: theme/options/_posts.php:82 theme/options/_posts.php:163
+msgid "Author link"
+msgstr ""
+
+#: theme/options/_posts.php:88
+msgid "Read more link"
+msgstr ""
+
+#: theme/options/_posts.php:94 theme/options/_posts.php:182
+msgid "Sidebar"
+msgstr ""
+
+#: theme/options/_posts.php:100
+msgid "Featured image style"
+msgstr ""
+
+#: theme/options/_posts.php:115
+msgid "Post page title"
+msgstr ""
+
+#: theme/options/_posts.php:117
+msgid "Our blog"
+msgstr ""
+
+#: theme/options/_socials.php:4 theme/options/_socials.php:5
+#: theme/widgets/contact/ctSocialsWidget.class.php:15
+msgid "Socials"
+msgstr ""
+
+#: theme/options/_socials.php:9
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:110
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:110
+msgid "Facebook username"
+msgstr ""
+
+#: theme/options/_socials.php:19
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:113
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:113
+msgid "Google+ username"
+msgstr ""
+
+#: theme/options/_socials.php:24
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:114
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:114
+msgid "LinkedIn username"
+msgstr ""
+
+#: theme/options/_socials.php:29
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:115
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:115
+msgid "Pinterest username"
+msgstr ""
+
+#: theme/options/_socials.php:34
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:112
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:112
+msgid "Dribbble username"
+msgstr ""
+
+#: theme/options/_socials.php:39
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:116
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:116
+msgid "Flickr username"
+msgstr ""
+
+#: theme/options/_socials.php:44
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:117
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:117
+msgid "Tumblr username"
+msgstr ""
+
+#: theme/options/_socials.php:49
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:118
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:118
+msgid "Instagram username"
+msgstr ""
+
+#: theme/options/_socials.php:54
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:119
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:119
+msgid "Youtube movie"
+msgstr ""
+
+#: theme/options/_socials.php:59
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:123
+msgid "Vimeo url - with http://"
+msgstr ""
+
+#: theme/options/_socials.php:65
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:121
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:120
+msgid "Phone number to call by Skype"
+msgstr ""
+
+#: theme/options/_socials.php:70
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:123
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:122
+msgid "Skype user"
+msgstr ""
+
+#: theme/options/_socials.php:75
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:124
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:157
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:124
+msgid "Email address"
+msgstr ""
+
+#: theme/options/_socials.php:80
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:126
+msgid "Rss"
+msgstr ""
+
+#: theme/options/_style.php:6
+msgid "Layout"
+msgstr ""
+
+#: theme/options/_style.php:7 theme/options/_style.php:23
+#: theme/options/_style.php:80
+msgid "Style"
+msgstr ""
+
+#: theme/options/_style.php:11
+msgid "Show preloader?"
+msgstr ""
+
+#: theme/options/_style.php:22
+msgid "Font"
+msgstr ""
+
+#: theme/options/_style.php:27
+msgid "Font style"
+msgstr ""
+
+#: theme/options/_style.php:36
+msgid "Default font size (px)"
+msgstr ""
+
+#: theme/options/_style.php:42
+msgid "H1 font size (px)"
+msgstr ""
+
+#: theme/options/_style.php:48
+msgid "H2 font size (px)"
+msgstr ""
+
+#: theme/options/_style.php:53
+msgid "H3 font size (px)"
+msgstr ""
+
+#: theme/options/_style.php:59
+msgid "H4 font size (px)"
+msgstr ""
+
+#: theme/options/_style.php:65
+msgid "H5 font size (px)"
+msgstr ""
+
+#: theme/options/_style.php:71
+msgid "H6 font size (px)"
+msgstr ""
+
+#: theme/options/_style.php:78
+msgid "Color"
+msgstr ""
+
+#: theme/shortcodes/accordion/ctAccordionItemShortcode.class.php:76
+#: theme/shortcodes/bars/ctBarShortcode.class.php:58
+#: theme/shortcodes/boxes/ctIconBoxItemShortcode.class.php:88
+#: theme/shortcodes/chapter/ctSectionBoxShortcode.class.php:57
+#: theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:174
+#: theme/shortcodes/parallax/ctParallaxTextShortcode.class.php:63
+#: theme/shortcodes/sliders/ctFlexSliderItemShortcode.class.php:75
+#: theme/shortcodes/typography/ctPricelistShortcode.class.php:71
+msgid "title"
+msgstr ""
+
+#: theme/shortcodes/accordion/ctAccordionItemShortcode.class.php:77
+#: theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:71
+#: theme/shortcodes/boxes/ctIconBoxItemShortcode.class.php:89
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:109
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:85
+#: theme/shortcodes/chapter/ctChapterShortcode.class.php:64
+#: theme/shortcodes/chapter/ctHighlightBoxShortcode.class.php:59
+#: theme/shortcodes/chapter/ctIconTextShortcode.class.php:62
+#: theme/shortcodes/chapter/ctSectionBoxShortcode.class.php:58
+#: theme/shortcodes/contact/ctContactShortcode.class.php:99
+#: theme/shortcodes/parallax/ctParallaxShortcode.class.php:157
+#: theme/shortcodes/parallax/ctParallaxTextShortcode.class.php:64
+#: theme/shortcodes/sliders/ctFlexSliderItemShortcode.class.php:76
+#: theme/shortcodes/structure/ctFullwidthRowShortcode.class.php:43
+#: theme/shortcodes/tabs/ctTabShortcode.class.php:92
+#: theme/shortcodes/testimonials/ctTestimonialShortcode.class.php:62
+#: theme/shortcodes/typography/ctBlockQuoteShortcode.class.php:63
+#: theme/shortcodes/typography/ctCoursesListItemItemShortcode.class.php:66
+#: theme/shortcodes/typography/ctDropcapShortcode.class.php:50
+#: theme/shortcodes/typography/ctHeaderShortcode.class.php:51
+#: theme/shortcodes/typography/ctHighlightShortcode.class.php:56
+#: theme/shortcodes/typography/ctListShortcode.class.php:66
+#: theme/shortcodes/typography/ctParagraphShortcode.class.php:54
+#: theme/shortcodes/typography/ctPricelistShortcode.class.php:78
+#: theme/shortcodes/typography/ctTableShortcode.class.php:52
+#: theme/shortcodes/video/ctFullscreenVideoShortcode.class.php:88
+msgid "content"
+msgstr ""
+
+#: theme/shortcodes/accordion/ctAccordionItemShortcode.class.php:78
+#: theme/shortcodes/tabs/ctTabShortcode.class.php:93
+msgid "is active"
+msgstr ""
+
+#: theme/shortcodes/accordion/ctAccordionShortcode.class.php:47
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:107
+#: theme/shortcodes/contact/ctContactShortcode.class.php:93
+#: theme/shortcodes/structure/ctRowShortcode.class.php:76
+#: theme/shortcodes/structure/ctTitleRowShortcode.class.php:84
+#: theme/shortcodes/tabs/ctTabShortcode.class.php:91
+#: theme/shortcodes/tabs/ctTabsShortcode.class.php:57
+msgid "header"
+msgstr ""
+
+#: theme/shortcodes/audio/ctAudioShortcode.class.php:150
+msgid "mp3 file link"
+msgstr ""
+
+#: theme/shortcodes/audio/ctAudioShortcode.class.php:150
+msgid "Direct link to .mp3 file"
+msgstr ""
+
+#: theme/shortcodes/audio/ctAudioShortcode.class.php:151
+msgid "ogg file link"
+msgstr ""
+
+#: theme/shortcodes/audio/ctAudioShortcode.class.php:151
+msgid "Direct link to .ogg, .oga file"
+msgstr ""
+
+#: theme/shortcodes/audio/ctAudioShortcode.class.php:152
+msgid "poster link"
+msgstr ""
+
+#: theme/shortcodes/audio/ctAudioShortcode.class.php:153
+msgid "poster height"
+msgstr ""
+
+#: theme/shortcodes/audio/ctAudioShortcode.class.php:154
+#: theme/shortcodes/gallery/ctGalleryGroupItemShortcode.class.php:108
+#: theme/shortcodes/video/ctVideoShortcode.class.php:200
+msgid "Width"
+msgstr ""
+
+#: theme/shortcodes/bars/ctBarShortcode.class.php:59
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:86
+msgid "percent"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctAlertBoxShortcode.class.php:53
+#: theme/shortcodes/posts/ctRecentPostsShortcode.class.php:108
+#: theme/shortcodes/structure/ctRowShortcode.class.php:77
+#: theme/shortcodes/typography/ctHeaderShortcode.class.php:52
+msgid "type"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctAlertBoxShortcode.class.php:53
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:82
+msgid "info"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctAlertBoxShortcode.class.php:53
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:82
+msgid "success"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctAlertBoxShortcode.class.php:53
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:82
+msgid "warning"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctAlertBoxShortcode.class.php:53
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:166
+msgid "error"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:67
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:122
+msgid "button text"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:67
+msgid "Click Here"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:67
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:164
+msgid "Button text"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:68
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:80
+#: theme/shortcodes/images/ctImageShortcode.class.php:103
+#: theme/shortcodes/sliders/ctFlexSliderItemShortcode.class.php:74
+#: theme/shortcodes/sliders/ctLogoSliderItemShortcode.class.php:55
+msgid "link"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:68
+msgid "Button link"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctButtonBoxShortcode.class.php:69
+#: theme/shortcodes/boxes/ctIconBoxShortcode.class.php:61
+#: theme/shortcodes/chapter/ctIconTextShortcode.class.php:60
+#: theme/shortcodes/typography/ctCoursesListItemItemShortcode.class.php:65
+#: theme/shortcodes/typography/ctListShortcode.class.php:65
+msgid "Icon"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctIconBoxItemShortcode.class.php:88
+#: theme/shortcodes/gallery/ctGalleryGroupItemShortcode.class.php:110
+msgid "Title text"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctIconBoxShortcode.class.php:63
+msgid "Text"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:106
+#: theme/shortcodes/sliders/ctFlexSliderItemShortcode.class.php:73
+#: theme/shortcodes/video/ctFullscreenVideoShortcode.class.php:87
+msgid "source"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:107
+#: theme/shortcodes/structure/ctRowShortcode.class.php:76
+#: theme/shortcodes/structure/ctTitleRowShortcode.class.php:84
+msgid "Header text"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:108
+msgid "subheader"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:108
+msgid "Subheader text"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:120
+msgid "Vimeo movie"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:122
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:121
+msgid "Phone tooltip label"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:122
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:160
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:198
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:121
+msgid "Phone"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:125
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:125
+msgid "Email tooltip label"
+msgstr ""
+
+#: theme/shortcodes/boxes/ctPersonBoxShortcode.class.php:125
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:196
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:125
+msgid "Email"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:79
+#: theme/shortcodes/contact/ctFlickrShortcode.class.php:60
+msgid "size"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:79
+msgid "block"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:79
+msgid "Button size"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:80
+#: theme/shortcodes/images/ctImageShortcode.class.php:103
+#: theme/shortcodes/sliders/ctLogoSliderItemShortcode.class.php:55
+msgid "ex. http://www.google.com"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:81
+#: theme/shortcodes/images/ctImageShortcode.class.php:100
+msgid "width"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:82
+msgid "color"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:82
+#: theme/shortcodes/images/ctImageShortcode.class.php:102
+msgid "Default"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:82
+msgid "primary"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:82
+msgid "inactive"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:82
+msgid "inverse"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:82
+msgid "danger"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:83
+#: theme/shortcodes/chapter/ctSectionBoxShortcode.class.php:56
+#: theme/shortcodes/gallery/ctGalleryGroupShortcode .class.php:320
+#: theme/shortcodes/portfolio/ctWorksShortcode.class.php:199
+#: theme/shortcodes/structure/ctRowShortcode.class.php:80
+msgid "icon"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:84
+msgid "icon place"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:84
+msgid "left"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:84
+msgid "right"
+msgstr ""
+
+#: theme/shortcodes/buttons/ctButtonShortcode.class.php:86
+msgid "nofollow"
+msgstr ""
+
+#: theme/shortcodes/chapter/ctIconTextShortcode.class.php:61
+msgid "Label"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:156
+#: theme/shortcodes/contact/ctFlickrShortcode.class.php:54
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:120
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:109
+#: theme/shortcodes/portfolio/ctWorksShortcode.class.php:198
+#: theme/shortcodes/posts/ctRecentPostsShortcode.class.php:106
+msgid "header text"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:157
+msgid "mail to"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:158
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:126
+msgid "subject"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:158
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:126
+msgid "Subject of the admin mail"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:159
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:197
+msgid "Name"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:159
+msgid "Name field placeholder"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:160
+#: theme/shortcodes/contact/ctContactShortcode.class.php:95
+msgid "phone"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:160
+msgid "Phone field placeholder"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:161
+#: theme/shortcodes/contact/ctContactShortcode.class.php:96
+msgid "email"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:161
+msgid "E-mail"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:161
+msgid "Email field placeholder"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:162
+msgid "message"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:162
+msgid "How can we help you?"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:162
+msgid "Message field placeholder"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:163
+msgid "Show placeholders"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:163
+msgid ""
+"Placeholders are labels inside inputs which disappear when content is entered"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:164
+msgid "Send Message"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:165
+msgid "Thank You! We will contact you shortly."
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:165
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:123
+msgid "Success message"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactFormShortcode.class.php:166
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:124
+msgid "An error occured. Please try again."
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactShortcode.class.php:94
+msgid "contact title"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactShortcode.class.php:95
+#: theme/shortcodes/contact/ctContactShortcode.class.php:96
+#: theme/shortcodes/contact/ctContactShortcode.class.php:98
+msgid "separating items with a comma"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactShortcode.class.php:97
+msgid "address"
+msgstr ""
+
+#: theme/shortcodes/contact/ctContactShortcode.class.php:98
+msgid "opening hours"
+msgstr ""
+
+#: theme/shortcodes/contact/ctFlickrShortcode.class.php:55
+msgid "user ID"
+msgstr ""
+
+#: theme/shortcodes/contact/ctFlickrShortcode.class.php:56
+msgid "group ID"
+msgstr ""
+
+#: theme/shortcodes/contact/ctFlickrShortcode.class.php:57
+msgid "set ID"
+msgstr ""
+
+#: theme/shortcodes/contact/ctFlickrShortcode.class.php:58
+msgid "number of images"
+msgstr ""
+
+#: theme/shortcodes/contact/ctFlickrShortcode.class.php:59
+msgid "order"
+msgstr ""
+
+#: theme/shortcodes/contact/ctFlickrShortcode.class.php:59
+msgid "latest"
+msgstr ""
+
+#: theme/shortcodes/contact/ctFlickrShortcode.class.php:59
+msgid "random"
+msgstr ""
+
+#: theme/shortcodes/contact/ctFlickrShortcode.class.php:59
+msgid "Order type"
+msgstr ""
+
+#: theme/shortcodes/contact/ctFlickrShortcode.class.php:60
+msgid "small square box"
+msgstr ""
+
+#: theme/shortcodes/contact/ctFlickrShortcode.class.php:60
+msgid "thumbnail"
+msgstr ""
+
+#: theme/shortcodes/contact/ctFlickrShortcode.class.php:60
+msgid "Size"
+msgstr ""
+
+#: theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:167
+#: theme/shortcodes/images/ctImageShortcode.class.php:101
+#: theme/shortcodes/structure/ctSpacerShortcode.class.php:45
+msgid "height"
+msgstr ""
+
+#: theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:168
+msgid "latitude"
+msgstr ""
+
+#: theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:169
+msgid "longitude"
+msgstr ""
+
+#: theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:170
+msgid "zoom"
+msgstr ""
+
+#: theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:171
+msgid "Scroll Wheel"
+msgstr ""
+
+#: theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:172
+msgid "Doubleclick zoom"
+msgstr ""
+
+#: theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:173
+msgid "map type"
+msgstr ""
+
+#: theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:173
+msgid "ROADMAP"
+msgstr ""
+
+#: theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:173
+msgid "SATELLITE"
+msgstr ""
+
+#: theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:173
+msgid "HYBRID"
+msgstr ""
+
+#: theme/shortcodes/contact/ctGoogleMapsShortcode.class.php:173
+msgid "TERRAIN"
+msgstr ""
+
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:121
+msgid "placeholder"
+msgstr ""
+
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:121
+msgid "enter your email"
+msgstr ""
+
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:121
+msgid "Placeholder text for input"
+msgstr ""
+
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:123
+msgid "success message"
+msgstr ""
+
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:123
+msgid "Thank You!"
+msgstr ""
+
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:124
+msgid "fail message"
+msgstr ""
+
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:124
+msgid "Fail message"
+msgstr ""
+
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:125
+msgid "Subscription receiver mail"
+msgstr ""
+
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:125
+msgid "Mail to"
+msgstr ""
+
+#: theme/shortcodes/contact/ctNewsletterShortcode.class.php:138
+msgid "Newsletter subscription"
+msgstr ""
+
+#: theme/shortcodes/contact/ctSocialsShortcode.class.php:126
+msgid "Show rss feed link?"
+msgstr ""
+
+#: theme/shortcodes/gallery/ctGalleryGroupItemShortcode.class.php:109
+#: theme/shortcodes/video/ctVideoShortcode.class.php:201
+msgid "Height"
+msgstr ""
+
+#: theme/shortcodes/gallery/ctGalleryGroupItemShortcode.class.php:111
+msgid "LINK"
+msgstr ""
+
+#: theme/shortcodes/gallery/ctGalleryGroupItemShortcode.class.php:111
+msgid ""
+"If you do not put the url, when you click the image will be displayed as a "
+"slide"
+msgstr ""
+
+#: theme/shortcodes/gallery/ctGalleryGroupItemShortcode.class.php:112
+msgid "Filters"
+msgstr ""
+
+#: theme/shortcodes/gallery/ctGalleryGroupItemShortcode.class.php:112
+msgid "Filter names, please write after the space"
+msgstr ""
+
+#: theme/shortcodes/gallery/ctGalleryGroupShortcode .class.php:111
+msgid "All"
+msgstr ""
+
+#: theme/shortcodes/gallery/ctGalleryGroupShortcode .class.php:321
+msgid "Columns"
+msgstr ""
+
+#: theme/shortcodes/gallery/ctGalleryGroupShortcode .class.php:322
+#: theme/shortcodes/portfolio/ctWorksShortcode.class.php:201
+msgid "Groups"
+msgstr ""
+
+#: theme/shortcodes/gallery/ctGalleryGroupShortcode .class.php:322
+msgid ""
+"Separate group names by commas.Group will appear as buttons in the Gallery"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:86
+msgid "in %"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:87
+msgid "text inside circle"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:87
+msgid "if icon selected, text will not be displayed"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:88
+msgid "entypo icon"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:89
+msgid "bar color"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:89
+msgid "The color of the curcular bar."
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:90
+msgid "track color"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:90
+msgid ""
+"The color of the track for the bar, leave it blank to disable rendering."
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:91
+msgid "scale color"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:91
+msgid "The color of the scale lines, leave it blank to disable rendering."
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:92
+msgid "line cap"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:92
+msgid "button"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:92
+msgid "round"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:92
+msgid "square"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:92
+msgid "defines how the ending of the bar line looks like"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:93
+msgid "Width of the bar line"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:93
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:94
+msgid "in px"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:94
+msgid "size of chart"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:95
+#: theme/shortcodes/sliders/ctFlexSliderShortcode.class.php:126
+msgid "animation speed"
+msgstr ""
+
+#: theme/shortcodes/graph/ctGraphCircleShortcode.class.php:95
+msgid ""
+"Time in milliseconds (1000 is 1 second) for a eased animation of the bar "
+"growing, or 0 to deactivate."
+msgstr ""
+
+#: theme/shortcodes/images/ctImageShortcode.class.php:98
+#: theme/shortcodes/posts/ctRecentPostsShortcode.class.php:108
+msgid "image"
+msgstr ""
+
+#: theme/shortcodes/images/ctImageShortcode.class.php:98
+msgid "Image source"
+msgstr ""
+
+#: theme/shortcodes/images/ctImageShortcode.class.php:99
+msgid "alt"
+msgstr ""
+
+#: theme/shortcodes/images/ctImageShortcode.class.php:99
+msgid "Alternate text"
+msgstr ""
+
+#: theme/shortcodes/images/ctImageShortcode.class.php:100
+msgid "Image width"
+msgstr ""
+
+#: theme/shortcodes/images/ctImageShortcode.class.php:101
+msgid "Image height"
+msgstr ""
+
+#: theme/shortcodes/images/ctImageShortcode.class.php:102
+msgid "align"
+msgstr ""
+
+#: theme/shortcodes/images/ctImageShortcode.class.php:102
+msgid "Left"
+msgstr ""
+
+#: theme/shortcodes/images/ctImageShortcode.class.php:102
+msgid "Center"
+msgstr ""
+
+#: theme/shortcodes/images/ctImageShortcode.class.php:102
+msgid "Right"
+msgstr ""
+
+#: theme/shortcodes/images/ctImageShortcode.class.php:102
+msgid "Image align"
+msgstr ""
+
+#: theme/shortcodes/images/ctImageShortcode.class.php:104
+#: theme/shortcodes/typography/ctHeaderShortcode.class.php:53
+msgid "class"
+msgstr ""
+
+#: theme/shortcodes/images/ctImageShortcode.class.php:104
+msgid "Image class"
+msgstr ""
+
+#: theme/shortcodes/parallax/ctParallaxShortcode.class.php:153
+msgid "ratio"
+msgstr ""
+
+#: theme/shortcodes/parallax/ctParallaxShortcode.class.php:153
+msgid "data-stellar-background-ratio"
+msgstr ""
+
+#: theme/shortcodes/parallax/ctParallaxShortcode.class.php:154
+msgid "overlay"
+msgstr ""
+
+#: theme/shortcodes/parallax/ctParallaxShortcode.class.php:154
+msgid "data-bg-overlay"
+msgstr ""
+
+#: theme/shortcodes/parallax/ctParallaxShortcode.class.php:155
+msgid "opacity"
+msgstr ""
+
+#: theme/shortcodes/parallax/ctParallaxShortcode.class.php:155
+msgid "data-bg-opacity"
+msgstr ""
+
+#: theme/shortcodes/parallax/ctParallaxShortcode.class.php:156
+msgid "imgsrc"
+msgstr ""
+
+#: theme/shortcodes/portfolio/ctWorksShortcode.class.php:191
+#: theme/shortcodes/portfolio/ctWorksSliderShortcode.class.php:129
+msgid "Number of portfolio elements"
+msgstr ""
+
+#: theme/shortcodes/portfolio/ctWorksShortcode.class.php:194
+msgid "columns"
+msgstr ""
+
+#: theme/shortcodes/portfolio/ctWorksShortcode.class.php:201
+msgid ""
+"Separate group names by commas. Group will appear as buttons in the Gallery"
+msgstr ""
+
+#: theme/shortcodes/portfolio/ctWorksSliderShortcode.class.php:130
+msgid "reload"
+msgstr ""
+
+#: theme/shortcodes/portfolio/ctWorksSliderShortcode.class.php:130
+msgid "Reload page to show work details?"
+msgstr ""
+
+#: theme/shortcodes/portfolio/ctWorksSliderShortcode.class.php:131
+msgid "rows"
+msgstr ""
+
+#: theme/shortcodes/portfolio/ctWorksSliderShortcode.class.php:131
+msgid "Number of rows per slide"
+msgstr ""
+
+#: theme/shortcodes/posts/ctRecentPostsShortcode.class.php:108
+msgid "simple"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctFlexSliderItemShortcode.class.php:74
+msgid "Link from image"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctFlexSliderShortcode.class.php:124
+msgid "effect"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctFlexSliderShortcode.class.php:124
+msgid "Slider effect"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctFlexSliderShortcode.class.php:125
+msgid "pause time"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctFlexSliderShortcode.class.php:125
+msgid "how long each slide will show in miliseconds (1 sec = 1000 milisec)"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctFlexSliderShortcode.class.php:126
+msgid "slide transition speed in miliseconds (1 sec = 1000 milisec)"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctFlexSliderShortcode.class.php:127
+msgid "show control navigation"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctFlexSliderShortcode.class.php:127
+#: theme/shortcodes/sliders/ctFlexSliderShortcode.class.php:129
+#: theme/shortcodes/sliders/ctLogoSliderShortcode.class.php:91
+#: theme/shortcodes/sliders/ctLogoSliderShortcode.class.php:92
+msgid "true"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctFlexSliderShortcode.class.php:127
+#: theme/shortcodes/sliders/ctFlexSliderShortcode.class.php:129
+#: theme/shortcodes/sliders/ctLogoSliderShortcode.class.php:91
+#: theme/shortcodes/sliders/ctLogoSliderShortcode.class.php:92
+msgid "false"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctFlexSliderShortcode.class.php:128
+msgid "full height slider ?"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctFlexSliderShortcode.class.php:128
+msgid "true / false"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctFlexSliderShortcode.class.php:129
+msgid "show direction navigation"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctLogoSliderItemShortcode.class.php:56
+msgid "image source"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctLogoSliderShortcode.class.php:88
+msgid "item width"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctLogoSliderShortcode.class.php:88
+msgid "Single logo container width"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctLogoSliderShortcode.class.php:89
+msgid "minimum items"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctLogoSliderShortcode.class.php:89
+msgid "Minimum number of items that should be visible"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctLogoSliderShortcode.class.php:90
+msgid "move items"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctLogoSliderShortcode.class.php:90
+msgid ""
+"Number of items that should move on animation. If 0, slider will move all "
+"visible items."
+msgstr ""
+
+#: theme/shortcodes/sliders/ctLogoSliderShortcode.class.php:91
+msgid "navigation"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctLogoSliderShortcode.class.php:91
+msgid "Display navigation?"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctLogoSliderShortcode.class.php:92
+msgid "loop animation"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctLogoSliderShortcode.class.php:92
+msgid "Loop animation?"
+msgstr ""
+
+#: theme/shortcodes/sliders/ctRevolutionSliderShortcode.class.php:55
+msgid "Revolution Slider"
+msgstr ""
+
+#: theme/shortcodes/structure/ctColumnGeneratorShortcode.class.php:148
+msgid "Drag columns here"
+msgstr ""
+
+#: theme/shortcodes/structure/ctColumnGeneratorShortcode.class.php:150
+msgid "Drag column to arrange layout"
+msgstr ""
+
+#: theme/shortcodes/structure/ctRowShortcode.class.php:75
+#: theme/shortcodes/structure/ctTitleRowShortcode.class.php:83
+msgid "header id"
+msgstr ""
+
+#: theme/shortcodes/structure/ctRowShortcode.class.php:75
+#: theme/shortcodes/structure/ctTitleRowShortcode.class.php:83
+msgid "html id attribute"
+msgstr ""
+
+#: theme/shortcodes/structure/ctRowShortcode.class.php:78
+#: theme/shortcodes/typography/ctParagraphShortcode.class.php:53
+msgid "CSS class"
+msgstr ""
+
+#: theme/shortcodes/structure/ctRowShortcode.class.php:79
+msgid "add inner space?"
+msgstr ""
+
+#: theme/shortcodes/structure/ctRowShortcode.class.php:79
+msgid "yes: default space, no: no space, value like 5: 5px bottom space"
+msgstr ""
+
+#: theme/shortcodes/structure/ctRowShortcode.class.php:81
+msgid "narrow content?"
+msgstr ""
+
+#: theme/shortcodes/structure/ctRowShortcode.class.php:81
+msgid "Make content narrow even if inside full width container?"
+msgstr ""
+
+#: theme/shortcodes/structure/ctSpacerShortcode.class.php:45
+msgid ""
+"Add space between elements. Default value in pixels (% is also supported)"
+msgstr ""
+
+#: theme/shortcodes/structure/ctTitleRowShortcode.class.php:85
+msgid "breadcrumbs"
+msgstr ""
+
+#: theme/shortcodes/structure/ctTitleRowShortcode.class.php:85
+msgid "Show breadcrumbs path?"
+msgstr ""
+
+#: theme/shortcodes/testimonials/ctTestimonialShortcode.class.php:60
+#: theme/shortcodes/typography/ctBlockQuoteShortcode.class.php:62
+msgid "author"
+msgstr ""
+
+#: theme/shortcodes/testimonials/ctTestimonialShortcode.class.php:61
+msgid "position"
+msgstr ""
+
+#: theme/shortcodes/testimonials/ctTestimonialShortcode.class.php:61
+msgid "Position"
+msgstr ""
+
+#: theme/shortcodes/typography/ctCoursesListItemItemShortcode.class.php:64
+msgid "url link"
+msgstr ""
+
+#: theme/shortcodes/typography/ctCoursesListItemItemShortcode.class.php:64
+msgid "Direct link to ivent"
+msgstr ""
+
+#: theme/shortcodes/typography/ctHeaderShortcode.class.php:53
+msgid "Header class"
+msgstr ""
+
+#: theme/shortcodes/typography/ctIconShortcode.class.php:54
+msgid "awesome icon"
+msgstr ""
+
+#: theme/shortcodes/typography/ctListShortcode.class.php:67
+msgid "Custom class"
+msgstr ""
+
+#: theme/shortcodes/typography/ctPricelistShortcode.class.php:55
+msgid "monthly"
+msgstr ""
+
+#: theme/shortcodes/typography/ctPricelistShortcode.class.php:72
+msgid "style"
+msgstr ""
+
+#: theme/shortcodes/typography/ctPricelistShortcode.class.php:72
+msgid "normal"
+msgstr ""
+
+#: theme/shortcodes/typography/ctPricelistShortcode.class.php:72
+msgid "special"
+msgstr ""
+
+#: theme/shortcodes/typography/ctPricelistShortcode.class.php:73
+msgid "currency"
+msgstr ""
+
+#: theme/shortcodes/typography/ctPricelistShortcode.class.php:73
+msgid "$"
+msgstr ""
+
+#: theme/shortcodes/typography/ctPricelistShortcode.class.php:74
+msgid "price"
+msgstr ""
+
+#: theme/shortcodes/typography/ctPricelistShortcode.class.php:75
+msgid "subprice"
+msgstr ""
+
+#: theme/shortcodes/typography/ctPricelistShortcode.class.php:76
+msgid "button label"
+msgstr ""
+
+#: theme/shortcodes/typography/ctPricelistShortcode.class.php:77
+msgid "button link"
+msgstr ""
+
+#: theme/shortcodes/typography/ctTableShortcode.class.php:52
+msgid ""
+"Please enter complete HTML Table markup with &lt;table&gt;..&lt;/table&gt;"
+msgstr ""
+
+#: theme/shortcodes/video/ctFullscreenVideoShortcode.class.php:87
+msgid "Image - ex. for mobile devices"
+msgstr ""
+
+#: theme/shortcodes/video/ctVideoBackgroundShortcode.class.php:79
+#: theme/shortcodes/video/ctVideoShortcode.class.php:194
+msgid "Direct movie link"
+msgstr ""
+
+#: theme/shortcodes/video/ctVideoShortcode.class.php:195
+msgid "Video type (used only if link not given)"
+msgstr ""
+
+#: theme/shortcodes/video/ctVideoShortcode.class.php:196
+msgid "Clip id"
+msgstr ""
+
+#: theme/shortcodes/video/ctVideoShortcode.class.php:196
+msgid "Used for Youtube, Vimeo and Dailymotion used only if link not given)"
+msgstr ""
+
+#: theme/shortcodes/video/ctVideoShortcode.class.php:197
+msgid "Flash movie source"
+msgstr ""
+
+#: theme/shortcodes/video/ctVideoShortcode.class.php:197
+msgid "Used only for flash movies"
+msgstr ""
+
+#: theme/shortcodes/video/ctVideoShortcode.class.php:198
+msgid "M4V URL"
+msgstr ""
+
+#: theme/shortcodes/video/ctVideoShortcode.class.php:198
+msgid ".m4v self hosted video url"
+msgstr ""
+
+#: theme/shortcodes/video/ctVideoShortcode.class.php:199
+msgid "OGV URL"
+msgstr ""
+
+#: theme/shortcodes/video/ctVideoShortcode.class.php:199
+msgid ".ogv self hosted video url"
+msgstr ""
+
+#: theme/shortcodes/video/ctVideoShortcode.class.php:202
+msgid "autoplay"
+msgstr ""
+
+#: theme/shortcodes/video/ctVideoShortcode.class.php:202
+msgid "Autoplay video?"
+msgstr ""
+
+#: theme/shortcodes/video/ctVideoShortcode.class.php:203
+msgid "Additional params"
+msgstr ""
+
+#: theme/shortcodes/video/ctVideoShortcode.class.php:203
+msgid "Params which will be added to url like: type=1&full=1"
+msgstr ""
+
+#: theme/types/page.php:16 theme/types/portfolio.php:16
+#: theme/types/post.php:16
+msgid "Template settings"
+msgstr ""
+
+#: theme/types/page.php:32 theme/types/portfolio.php:123
+#: theme/types/post.php:32
+msgid "Show title"
+msgstr ""
+
+#: theme/types/page.php:34 theme/types/page.php:44
+#: theme/types/portfolio.php:125 theme/types/portfolio.php:135
+#: theme/types/post.php:34 theme/types/post.php:44 theme/types/post.php:60
+msgid "use global settings"
+msgstr ""
+
+#: theme/types/page.php:35 theme/types/portfolio.php:126
+#: theme/types/post.php:35
+msgid "show title"
+msgstr ""
+
+#: theme/types/page.php:36 theme/types/portfolio.php:127
+#: theme/types/post.php:36
+msgid "hide title"
+msgstr ""
+
+#: theme/types/page.php:39 theme/types/portfolio.php:130
+#: theme/types/post.php:39 theme/types/post.php:67
+msgid "Show page title?"
+msgstr ""
+
+#: theme/types/page.php:45 theme/types/portfolio.php:136
+#: theme/types/post.php:45
+msgid "show breadcrumbs"
+msgstr ""
+
+#: theme/types/page.php:46 theme/types/portfolio.php:137
+#: theme/types/post.php:46
+msgid "hide breadcrumbs"
+msgstr ""
+
+#: theme/types/page.php:49 theme/types/portfolio.php:140
+#: theme/types/post.php:49
+msgid "Show breadcrumbs?"
+msgstr ""
+
+#: theme/types/page.php:53 theme/types/portfolio.php:143
+#: theme/types/post.php:52
+msgid "Above menu"
+msgstr ""
+
+#: theme/types/page.php:56 theme/types/portfolio.php:146
+#: theme/types/post.php:55
+msgid "Above menu code"
+msgstr ""
+
+#: theme/types/page.php:59 theme/types/page.php:62
+msgid "Video background"
+msgstr ""
+
+#: theme/types/portfolio.php:48
+msgid "Client icon"
+msgstr ""
+
+#: theme/types/portfolio.php:50 theme/types/portfolio.php:60
+#: theme/types/portfolio.php:69
+msgid " View %s and enter icon name ex. user"
+msgstr ""
+
+#: theme/types/portfolio.php:51
+msgid "Link to icon representation of the client field."
+msgstr ""
+
+#: theme/types/portfolio.php:56
+msgid "Information about date"
+msgstr ""
+
+#: theme/types/portfolio.php:58
+msgid "Date icon"
+msgstr ""
+
+#: theme/types/portfolio.php:61
+msgid "Link to icon representation of the date field"
+msgstr ""
+
+#: theme/types/portfolio.php:65
+msgid "Information about venue"
+msgstr ""
+
+#: theme/types/portfolio.php:67
+msgid "Venue icon"
+msgstr ""
+
+#: theme/types/portfolio.php:70
+msgid "Link to icon representation of the venue field"
+msgstr ""
+
+#: theme/types/portfolio.php:80
+msgid "Label for the external url"
+msgstr ""
+
+#: theme/types/post.php:58
+msgid "Featured image size"
+msgstr ""
+
+#: theme/types/post.php:61
+msgid "small image"
+msgstr ""
+
+#: theme/types/post.php:62
+msgid "full image"
+msgstr ""
+
+#: theme/widgets/contact/ctContactUsWidget.class.php:14
+msgid "Displays contact widget"
+msgstr ""
+
+#: theme/widgets/contact/ctContactUsWidget.class.php:15
+msgid "contact"
+msgstr ""
+
+#: theme/widgets/contact/ctFacebookWidget.class.php:14
+#: theme/widgets/contact/ctNewsletterWidget.class.php:13
+msgid "Displays newsletter form."
+msgstr ""
+
+#: theme/widgets/contact/ctFacebookWidget.class.php:15
+msgid "Facebook"
+msgstr ""
+
+#: theme/widgets/contact/ctFlickrWidget.class.php:14
+msgid "Displays Flickr photostream."
+msgstr ""
+
+#: theme/widgets/contact/ctFlickrWidget.class.php:15
+msgid "Flickr photostream"
+msgstr ""
+
+#: theme/widgets/contact/ctGoogleMapsWidget.class.php:14
+msgid "Displays Google map."
+msgstr ""
+
+#: theme/widgets/contact/ctGoogleMapsWidget.class.php:15
+msgid "Google Maps"
+msgstr ""
+
+#: theme/widgets/contact/ctNewsletterWidget.class.php:14
+msgid "Newsletter form"
+msgstr ""
+
+#: theme/widgets/contact/ctRecentTweetsWidget.class.php:14
+msgid "Displays Recent Tweets."
+msgstr ""
+
+#: theme/widgets/contact/ctRecentTweetsWidget.class.php:15
+msgid "twitter"
+msgstr ""
+
+#: theme/widgets/contact/ctSocialsWidget.class.php:14
+msgid "Your socials"
+msgstr ""
+
+#: theme/widgets/post/ctRecentPostsWidget.class.php:14
+msgid "Displays recent posts."
+msgstr ""
+
+#: theme/widgets/post/ctRecentPostsWidget.class.php:15
+msgid "Recent posts"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Panacea"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://createit.pl/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Responsive Panacea template"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemePlayers"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/ThemePlayers/portfolio"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archives"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Category"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Right Sidebar Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Faq Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Portfolio Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Tag"
+msgstr ""
